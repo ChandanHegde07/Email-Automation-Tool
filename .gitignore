@@ -1,0 +1,51 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.env
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm
+*.iml
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Coverage reports
+.coverage
+*.coveragerc
+nosetests.xml
+test_*.xml
+coverage.xml
+*.hypothesis/
+
+# Dist folders
+dist/
+build/
+*.egg-info/
+
+# Temporary files
+*.bak
+*.swp
+*.swo
+
+# Mac OS files
+.DS_Store
+
+# Windows
+Thumbs.db
