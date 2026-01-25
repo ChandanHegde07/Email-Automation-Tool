@@ -30,9 +30,9 @@ def send_email(name, receiver_email):
         server.login(SENDER_EMAIL, PASSWORD)
         server.send_message(msg)
         server.quit()
-        print(f"✅ Email sent to {name} ({receiver_email})")
+        print(f"Email sent to {name} ({receiver_email})")
     except Exception as e:
-        print(f"❌ Error sending email to {receiver_email}: {e}")
+        print(f"Error sending email to {receiver_email}: {e}")
 
 
 # FUNCTION: Send to all
