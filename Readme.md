@@ -1,4 +1,4 @@
-# Email Automation Tool 📧
+# Email Automation Tool 
 
 ## Overview
 
@@ -209,4 +209,4 @@ For questions or suggestions, please open an issue in the repository.
 
 ---
 
-**Happy Emailing! **
+**Happy Emailing!**
