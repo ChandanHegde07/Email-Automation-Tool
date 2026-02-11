@@ -4,7 +4,7 @@
 
 The **Email Automation Tool** is a Python-based solution for automating the process of sending customized bulk emails. It reads recipient data from a CSV file and sends personalized emails using Gmail's SMTP server.
 
-This tool is ideal for automating outreach, reminders, notifications, and other communication tasks for businesses, event organizers, or teams.
+This tool is ideal for automating outreach, reminders, notifications, and other communication tasks for businesses, event organizers or teams.
 
 ## Features
 
